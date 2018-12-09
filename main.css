@@ -1,0 +1,186 @@
+/*  # for id, . for class */
+
+@import url(http://web.archive.org/web/20170915231323cs_/http://fonts.googleapis.com/css?family=Cantarell:400,700);
+
+
+a
+{
+	text-decoration: none;
+	color: #0C0970;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+ul {
+	list-style-type: disc;
+	list-style-image: url(/web/20170915231323im_/http://simpleglacieruploader.brianmcmichael.com/css/bullet.gif);
+	list-style-position: inside;
+	}
+
+body
+{
+	font-family: 'Cantarell', sans-serif;
+	float:left;
+}
+
+
+p
+{
+	font-family: 'Cantarell', sans-serif;
+	margin-left:310px; 	
+
+}
+
+
+h1
+{
+	font-family: 'Cantarell', sans-serif;
+	font-size:28px;
+	margin-left: 310px;
+}
+
+hr
+{
+	color:#0C0970;
+	background-color:#0C0970;
+	margin-left: 310px;
+	height: 10px;
+	border: 0px;
+	width: (100%-310px);
+}
+
+#hr .sidebar
+{
+	color:#0C0970;
+	background-color:#0C0970;
+	height: 10px;
+	border: 0px;
+	width: 310px;
+}
+
+#headline
+{
+	margin-top:40px;
+	margin-left: 310px;
+}
+
+#p1
+{
+	margin-top:80px;
+	font-weight:bold;
+}
+#p2
+{
+	font-weight:bold;
+}
+#p3
+{
+	font-weight:bold;
+}
+
+#pcontact
+{
+	position: right;
+}
+
+#img1
+{
+	margin-left: 310px;
+}
+
+#logo
+{
+	font-family: 'Cantarell', sans-serif;
+	position:absolute;
+	float:left;
+	left:30px;
+	top:30px;
+	z-index:1;
+	
+}
+
+
+#nav-wrapper {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:250px;
+	height:100%;
+	margin:0 auto;
+	
+	background: rgb(31,59,8); 
+	background: -moz-linear-gradient(left,  rgba(31,59,8,1) 0%, rgba(98,125,77,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(31,59,8,1)), color-stop(100%,rgba(98,125,77,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left,  rgba(31,59,8,1) 0%,rgba(98,125,77,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left,  rgba(31,59,8,1) 0%,rgba(98,125,77,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left,  rgba(31,59,8,1) 0%,rgba(98,125,77,1) 100%); /* IE10+ */
+	background: linear-gradient(left,  rgba(31,59,8,1) 0%,rgba(98,125,77,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1f3b08', endColorstr='#627d4d',GradientType=1 ); /* IE6-9 */
+
+	
+}
+
+ul#nav {
+font-family: 'Cantarell', sans-serif;
+font-size:14px;
+list-style:none;
+margin:15 auto;
+padding:15px;
+width:230px;
+
+
+}
+
+ul#nav li {
+	margin-top:45%;
+}
+
+ul#nav li a {
+text-decoration:none;
+padding:5px 21px;
+background:#0D0202;
+color:#eee;
+float:left;
+text-align:center;
+border-top:2px solid #165C01;
+border-right:2px solid #103007;
+border-bottom:2px solid #103007;
+border-left:2px solid #165C01;
+width:200px;
+}
+
+ul#nav li a:hover {
+background:#4F8B3D;
+color:#000;
+border-top:2px solid #165C01;
+border-right:2px solid #103007;
+border-bottom:2px solid #103007;
+border-left:2px solid #165C01;
+}
+
+#small-link {
+font-family: 'Cantarell', sans-serif;
+font-size:small;
+}
+
+/*
+     FILE ARCHIVED ON 23:13:23 Sep 15, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:29:40 Aug 14, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 84.069 (3)
+  esindex: 0.005
+  captures_list: 100.343
+  CDXLines.iter: 9.702 (3)
+  PetaboxLoader3.datanode: 179.197 (5)
+  exclusion.robots: 0.124
+  exclusion.robots.policy: 0.114
+  RedisCDXSource: 4.037
+  PetaboxLoader3.resolve: 231.117 (2)
+  load_resource: 371.999
+*/
